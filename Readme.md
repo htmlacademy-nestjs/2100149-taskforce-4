@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Андрей Федоров](https://up.htmlacademy.ru/nodejs-2/4/user/2100149).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Вохмянин](https://htmlacademy.ru/profile/id530823).
 
 ---
 
